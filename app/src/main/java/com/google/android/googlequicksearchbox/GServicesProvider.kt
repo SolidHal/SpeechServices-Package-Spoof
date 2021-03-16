@@ -1,4 +1,4 @@
-package com.google.android.gms
+package com.google.android.googlequicksearchbox
 
 import android.content.ContentProvider
 import android.content.ContentValues

@@ -7,7 +7,7 @@ android {
     defaultConfig {
         applicationId "com.google.android.tss"
         minSdkVersion 23
-        targetSdkVersion 31
+        targetSdkVersion 30
         versionCode 210319286
         versionName "1.1"
     }

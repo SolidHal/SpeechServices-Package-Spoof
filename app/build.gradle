@@ -5,10 +5,10 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "com.google.android.googlequicksearchbox"
-        minSdkVersion 19
-        targetSdkVersion 29
-        versionCode 301134278
+        applicationId "com.google.android.tss"
+        minSdkVersion 23
+        targetSdkVersion 31
+        versionCode 210319286
         versionName "1.1"
     }
 

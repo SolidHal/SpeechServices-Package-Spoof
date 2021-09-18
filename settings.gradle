@@ -1,2 +1,2 @@
-rootProject.name='Gcam Services Provider'
+rootProject.name='Fake Speech Services'
 include ':app'

@@ -2,13 +2,13 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 32
 
     defaultConfig {
         applicationId "com.google.android.tts"
         minSdkVersion 23
-        targetSdkVersion 30
-        versionCode 210319286
+        targetSdkVersion 31
+        versionCode 210345047
         versionName "1.1"
     }
 

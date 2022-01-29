@@ -14,3 +14,8 @@ export ANDROID_SDK_ROOT=<PATH_TO_SDK>
 ```
 5) run `./gradlew build`
 
+
+## Sign
+```
+apksigner sign --key key.pk8 --cert key.x509.pem app/build/outputs/apk/release/app-release-unsigned.apk
+```
